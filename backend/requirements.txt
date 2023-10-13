@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pyngrok
+statsmodels --user  
+tensorboardX --user
+pandas==0.24.2 --user
+plotly
+bs4 --user
+plotly --user
+-U auquan_toolbox --user
